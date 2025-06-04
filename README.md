@@ -24,7 +24,7 @@
                 <div class="cartao__conteudo">
                     <h3>Programação</h3>
                     <div class="cartao__conteudo__pergunta">
-                        no que o app vai me auxiliar?
+                        No que o aplicativo vai auxiliar?
                     </div>
                     <div class="cartao__conteudo__resposta">
                         vai contribuir no auxilio de produção de sua horta doméstica.
