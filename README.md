@@ -13,10 +13,10 @@
                 <div class="cartao__conteudo">
                     <h3>Programação</h3>
                     <div class="cartao__conteudo__pergunta">
-                        O que é JavaScript?
+                         Para que serve o app?
                     </div>
                     <div class="cartao__conteudo__resposta">
-                        O JavaScript é uma linguagem de programação
+                        o app em si serve para auxiliar o pessoal que vem para o ambiente urbano
                     </div>
                 </div>
             </article>
@@ -24,10 +24,10 @@
                 <div class="cartao__conteudo">
                     <h3>Programação</h3>
                     <div class="cartao__conteudo__pergunta">
-                        O que é CSS?
+                        no que o app vai me auxiliar?
                     </div>
                     <div class="cartao__conteudo__resposta">
-                        O CSS é uma linguagem de estilização
+                        vai contribuir no auxilio de produção de sua horta doméstica
                     </div>
                 </div>
             </article>
